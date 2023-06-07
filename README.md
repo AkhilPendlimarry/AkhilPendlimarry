@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Python and how to build web applications using React JS and Python.I also interested in Cloud services and learning few of them like Ec2, S3 etc.,
 - 💞️ I’m looking to collaborate on projects in web development and AI/ML related projects.
 - 📫 How to reach me ...
-- You can reach me on email: akhil.pendlimarry1@gmail.com and on github profile. 
+- You can reach me on email: akhilpendli210@gmail.com and on github profile. 
 
 <!---
 AkhilPendlimarry/AkhilPendlimarry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
